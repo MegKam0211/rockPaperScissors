@@ -1,5 +1,5 @@
 # rockPaperScissors
-Write a program that allows the user to play the rock, paper, scissors game.
+Write a java program that allows the user to play the rock, paper, scissors game.
 
 The program should randomly generate a number 0, 1, 2, which represents scissors,
 rock and paper respectively.
